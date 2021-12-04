@@ -1,5 +1,4 @@
 from Utilities import *
-import re
 
 horizontal = depth = aim = 0
 with open('Day2Input.txt') as f:
